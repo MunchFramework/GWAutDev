@@ -1,0 +1,20 @@
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [35638] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/console.txt]
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [35638] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/console.txt]
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [576] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/wcag.html]
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [576] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/wcag.html]
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [0] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount].csv]
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [0] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount].csv]
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [2936] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount].html]
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [2936] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount].html]
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [94] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/generationFailure.txt]
+Mar 03, 2021 7:23:00 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [94] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/generationFailure.txt]

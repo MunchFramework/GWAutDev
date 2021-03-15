@@ -1,0 +1,20 @@
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [25398] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/console.txt]
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [25398] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/console.txt]
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [553] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/wcag.html]
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [553] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/wcag.html]
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [0] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].csv]
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [0] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].csv]
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [3051] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html]
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [3051] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html]
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [94] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/generationFailure.txt]
+Mar 04, 2021 7:35:12 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [94] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/generationFailure.txt]

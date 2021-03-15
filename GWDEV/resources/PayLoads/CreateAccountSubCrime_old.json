@@ -1,0 +1,332 @@
+{
+        "account": {
+                "account_id": "",
+                "customer_id": "",
+                "primary_entity": {
+                        "name": "sharthi",
+                        "business_type": "04",
+                        "trade_names": [{
+                                "trade_name": "Some Trade Corp",
+                                "trade_name_type": "DBA"
+                        }]
+                },
+                "other_entities": [{
+                        "name": "Other entity 1",
+                        "business_type": "04",
+                        "trade_names": [{
+                                "trade_name": "Some Trade Corp2",
+                                "trade_name_type": "AKA"
+                        }]
+                }],
+                "account_address": {
+                        "address_line_1": "satest street",
+                        "address_line_2": "",
+                        "address_line_3": "",
+                        "address_line_4": "",
+                        "locality": "Chinle",
+                        "region": "AZ",
+                        "postal_code": "86503",
+                        "country": "USA"
+                },
+                "phone_number": "9086043000",
+                "primary_naics_code": "811310"
+        },
+        "submission": {
+                "account_id": "",
+                "submitted_date": "2019-09-21T00:50:09.405Z",
+                "effective_date": "2019-10-01T00:50:09.405Z",
+                "expiration_date": "2020-10-01T00:50:09.405Z",
+                "predominant_state_code": "AZ",
+                "producer_id": "FL406",
+                "submitting_agent_npn": "1684059",
+                "contacts": [{
+                        "entity_id": "1",
+                        "title": "Mr.",
+                        "first_name": "first_name",
+                        "last_name": "last_name",
+                        "phone_number": "7324565757",
+                        "email_address": "nitin.jain@everestre.com",
+                        "contact_topics": [
+                                "SUBMISSION"
+                        ]
+                }],
+                "products": [{
+                        "product_code": "PC",
+                        "offering_code": "EverestExpPrivateCompManagementLiabPolicy",
+                        "management_liability": {
+                                "tax_exempt_status": {
+                                        "status_type": "VALUE_501C3",
+                                        "other_status": "XXX",
+                                        "status_disputed": false,
+                                        "dispute_explanation": "XXX"
+                                },
+                                "subsidiaries": {
+                                        "subsidiary_name": "XXX",
+                                        "nature_of_business": "XXX",
+                                        "total_assets": 122,
+                                        "coverage_requested": true,
+                                        "number_of_subsidiaries" : 2,
+                                        "tax_exempt_status": {
+                                                "status_type": "VALUE_501C3",
+                                                "other_status": "XXX",
+                                                "status_disputed": false,
+                                                "dispute_explanation": "XXX"
+                                        }
+                                },
+                                "underwriting_questions": [
+                                                                                 {
+                                                                                     "question_id":"ML_COMM_PRIOR_KNOWLEDGE",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Are you or any person or entity proposed for coverage aware of any fact, circumstance, or situation which he or she has reason to suppose might give rise to any claim that would fall within the scope of the proposed liability coverage parts?"
+                                                                                 }, {
+                                                                                     "question_id":"ML_COMM_COPYRIGHT_LITIGATION",
+                                                                                     "selected": false,
+                                                                                     "explanation": "In the past 24 months has the Applicant been the subject of or been involved in any litigation, including any antitrust, copyright or patent litigation?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_OFAC_BLOCK_EXISTS",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Does OFAC Block Exist?"
+                                                                                 },
+                                                                                   {
+                                                                                     "question_id":"ML_COMM_TOTAL_ASSETS_25_PERCENTAGE",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Have total consolidated assets changed by more than 25%?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_TOTAL_ASSETS_EXCEEDS_PRIOR_YEAR",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Do total consolidated assets for prior year end exceed 50,000,000?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_TOTAL_ASSETS_EXCEEDS_RECENT_YEAR",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Do total consolidated assets for most recent year end exceed 50,000,000?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_CASH_FLOW_CHANGE_MORE_THAN_25_PERCENTAGE",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Have Cash Flow changed (+/-?) by 25%+ since last year?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_CASH_FLOW_PRIOR_YEAR_LESS_THAN_0",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Is prior year end Cash Flow less than 0?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_CASH_FLOW_RECENT_YEAR_LESS_THAN_0",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Is most recent year end Cash Flow less than 0?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_COUNTRY_NOT_USA",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Is Country Not USA?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_NET_INCOME_LESS_THAN_0",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Is most recent year end net income less than 0?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_CURRENT_LIABILITY_TOTAL_ASSETS_MORE_THAN_1",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Does current liability exceed total assets?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_NET_LOSS_CHANGE_MORE_THAN_25_PERCENTAGE",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Have net income/net loss changed (+/-?) by 25%+ since last year?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_PRIOR_NET_INCOME_LESS_THAN_0",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Is prior year end net income less than 0?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_REVENUE_GREATER_THAN_10_PERCENTAGE",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Does Revenue from Government Sources exceed 10 %"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_REVENUE_25_PERCENTAGE",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Have revenues changed (+/-?) by 25%+ since last year?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_REVENUE_EXCEEDS_PRIOR_YEAR",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Does prior year end revenue exceed 50,000,000?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_REVENUE_EXCEEDS_RECENT_YEAR",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Does most recent year end revenue exceed 50,000,000?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_TOTAL_LOCATIONS_EXCEED",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Does total number of locations exceed 3?"
+                                                                                 },{
+                                                                                     "question_id":"ML_COMM_TOTAL_SUBSIDIARIES_EXCEED",
+                                                                                     "selected": false,
+                                                                                     "explanation": "Does total number of subsidiaries exceed 3?"
+                                                                                 },{
+                                                                                    "question_id": "ML_COMM_MERGER_ACQUISITION_DIVESTMENT",
+                                                                                    "selected": false,
+                                                                                    "explanation": "In the past 24 months (or in the next 18 months), has the Applicant experienced (or is the Applicant contemplating) any actual, negotiated, or attempted mergers, acquisitions, or divestments?"
+                                                                                },{
+                                                                                    "question_id": "ML_COMM_NON_US_LOCATIONS_EXCEED",
+                                                                                    "selected": false,
+                                                                                    "explanation": "Does total Number of locations outside the U.S. exceed 0?"
+                                                                                }
+                                                                            ],
+                                "exposure": {
+                                        "revenue": 10000,
+                                        "foreign_employees": 100,
+                                        "corporate_assets": 2000000,
+                                        "years_in_business" : 2,
+                                        "number_of_locations": 3,
+                                        "percentage_of_voting_shares_owned": 50
+                                },
+                                "coverage_parts": [
+                                        {
+                                                "coverage_part_code": "CRIME",
+                                                "crime": {
+                                                        "limit": 10,
+                                                        "retention": 10,
+                                                        "expiring_coverage": {
+                                                                "limit": 10,
+                                                                "retention": 10,
+                                                                "carrier": "XXX",
+                                                                "premium": 10,
+                                                                "prior_pending_litigation_date": "2019-04-01T00:50:09.405Z"
+                                                        }
+                                                },
+                                                "underwriting_questions": [
+                                                                                                                          {
+                                                                                                                            "question_id": "ML_CRIME_EXPENSE_REIMBURSEMENTS",
+                                                                                                                            "selected": true,
+                                                                                                                            "explanation": "Does the Applicant have Expense Reimbursement System?"
+                                                                                                                                        },
+                                                                                                                                          {
+                                                                                                                                            "question_id": "ML_CRIME_SPOOFED_EMAIL_CONTROLS",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there spoofed email controls"
+                                                                                                                                        }, {
+                                                                                                                                            "question_id": "ML_CRIME_FUNDS_TRANSFER_OVER_PHONE",
+                                                                                                                                            "selected": false,
+                                                                                                                                            "explanation": "Do you accept funds transfer over phone"
+                                                                                                                                        }, {
+                                                                                                                                            "question_id": "ML_CRIME_ANTI_FRAUD_SOCIAL_ENGINEERING_PHISHING_TRAINING",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Do you have anti fraud, social engineering training"
+                                                                                                                                        }, {
+                                                                                                                                            "question_id": "ML_CRIME_EMPLOYEE_IN_PAST_5_YEARS",
+                                                                                                                                            "selected": false,
+                                                                                                                                            "explanation": "Do you have Employee related crime losses in the past 5 years?"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_NO_COVERAGE_REQUESTED",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Does Crime coverage exist on your expiring policy?"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_LIMIT_LESS_THAN_COVERAGE_LIMIT",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is Crime Limit requested less than expiring coverage limit?"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_CONSISTENCY_OF_CONTROLS",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Are consistency of controls present?"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_PHYSICAL_INVENTORY_ANNUALLY",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there physical count of inventory annually"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_SEGREGATION_INVENTORY_COUNTING",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there segregation of inventory counting"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_WIRE_TRANSFER_VERBAL_CONFIRMATION",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there wire transfer verbal confirmation"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_VENDORS_SUPPLIERS_CHANGES",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there confirmation of vendors/suppliers changes"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_FUNDS_TRANSFER_OUTSIDE_USA",
+                                                                                                                                            "selected": false,
+                                                                                                                                            "explanation": "Do you have transfer of funds outside of USA"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_SEGREGATION_DUTIES",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there Segregation of Duties?"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_BACKGROUND_CHECK_PRIOR_EMPLOYEES",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there background check on prior employment?"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_FICTITIOUS_EMPLOYEES_CONTROLS",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there fictcious employees control"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_SEGRGATION_WIRE_TRANSFER",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there Segregation of Wire Transfer Duties?"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_PURCHASING_PAYABLE_CONTROLS",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Are there  purchasing/payable controls"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_BACKGROUND_CHECK_CREDIT_HISTORY",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there background check on credit history"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_COUNTERSIGNATURE_OF_CHECKS",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Are counter signature of checks adequate?"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_POSITIVE_PAY_SYSTEM",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Does the Applicant utilize a Positive Pay System?"
+                                                                                                                                        },{
+                                                                                                                                            "question_id": "ML_CRIME_PHYSICAL_SAFEGUARDS_INVENTORY",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Are there physical safeguards of inventory"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "question_id": "ML_CRIME_ANTI_FRAUD_HOTLINE",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Does the Applicant have Anti-fraud hotline?"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "question_id": "ML_CRIME_EMPLOYEES_CAN_TRANSACT_AND_RECONCILE",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there reconciliation of bank accounts?"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "question_id": "ML_CRIME_HIGH_VALUE_ITEMS",
+                                                                                                                                            "selected": false,
+                                                                                                                                            "explanation": "Are there Highly Valued Inventory (Precious Materials)"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "question_id": "ML_CRIME_VENDOR_LIST_EDITOR_ALSO_VERIFIES",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Are there  vendor list controls?"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "question_id": "ML_CRIME_CLIENT_ASSET_CUSTODY",
+                                                                                                                                            "selected": false,
+                                                                                                                                            "explanation": "Does the Applicant have custody or control over any funds, accounts, or materials of any of its clients?"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "question_id": "ML_CRIME_BACKGROUND_CHECK",
+                                                                                                                                            "selected": true,
+                                                                                                                                            "explanation": "Is there background check on criminal history"
+                                                                                                                                        }
+                                                                                                                    ],
+                                                "coverages": [
+                                                                {
+                                                                                                                                                                                                                                                "type": "CRIME_EMPLOYEE_THEFT_COVERAGE",
+                                                                                                                                                                                                                                                "limit": {
+                                                                                                                                                                                                                                                                                "type": "AGGREGATE",
+                                                                                                                                                                                                                                                                                "amount": 150000
+                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                "deductible": {
+                                                                                                                                                                                                                                                                                "type": "PER_OCCURRENCE",
+                                                                                                                                                                                                                                                                                "amount": 15000
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                }
+                                                ]
+                                        }
+                                ]
+                        }
+                }]
+        }
+
+}
+

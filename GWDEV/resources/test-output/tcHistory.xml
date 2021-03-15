@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<history xmlns="http://www.xframium.org/tcHistory" name="GuideWire">
+    <testCase name="chrome_TS_PcCreateAccount[DS_PcCreateAccount]">
+        <environment name="Apple Inc. Chrome 8 (1200 x 831)" make="Apple Inc." browserName="Chrome 8" resolution="1200 x 831">
+            <execution startTime="1614820898027" stopTime="1614820901954" passed="2" failed="1" ignored="0" total="3" success="false" fileName="03-04_06-51-06-442/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/chrome_TS_PcCreateAccount[DS_PcCreateAccount].html"/>
+            <execution startTime="1614821202913" stopTime="1614821204838" passed="2" failed="1" ignored="0" total="3" success="false" fileName="03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/chrome_TS_PcCreateAccount[DS_PcCreateAccount].html"/>
+        </environment>
+    </testCase>
+    <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+        <environment name="Apple Inc. Chrome 8 (1200 x 831)" make="Apple Inc." browserName="Chrome 8" resolution="1200 x 831">
+            <execution startTime="1614821381757" stopTime="1614821535253" passed="20" failed="0" ignored="0" total="20" success="false" fileName="03-04_06-59-16-217/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="1615624708166" stopTime="1615624722127" passed="1" failed="1" ignored="0" total="2" success="false" fileName="03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+        </environment>
+        <environment name="Google Chrome / Windows chrome" make="Google" model="Chrome" os="Windows" browserName="chrome">
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-04_07-38-58-785/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-43-25-358/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+        </environment>
+        <environment name="Google Chrome / macOS chrome" make="Google" model="Chrome" os="macOS" browserName="chrome">
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-45-22-335/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+        </environment>
+        <environment name="Google Chrome / Mac OS X chrome" make="Google" model="Chrome" os="Mac OS X" browserName="chrome">
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-46-46-238/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-49-27-850/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+        </environment>
+    </testCase>
+    <testCase name="Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]">
+        <environment name="Microsoft Internet Explorer / Windows Internet Explorer" make="Microsoft" model="Internet Explorer" os="Windows" browserName="Internet Explorer">
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-04_06-49-42-706/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount].html"/>
+        </environment>
+    </testCase>
+    <suite startTime="1614779544756" endTime="1614779580446" fileName="03-03_19-22-24-756/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Microsoft Internet Explorer / Windows Internet Explorer" pass="0" fail="1"/>
+        <testCase name="Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]">
+            <environment name="Microsoft Internet Explorer / Windows Internet Explorer" make="Microsoft" model="Internet Explorer" os="Windows" browserName="Internet Explorer">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-03_19-22-24-756/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1614820782706" endTime="1614820810518" fileName="03-04_06-49-42-706/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Microsoft Internet Explorer / Windows Internet Explorer" pass="0" fail="1"/>
+        <testCase name="Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]">
+            <environment name="Microsoft Internet Explorer / Windows Internet Explorer" make="Microsoft" model="Internet Explorer" os="Windows" browserName="Internet Explorer">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-04_06-49-42-706/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]/Internet Explorer/Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1614820866442" endTime="1614820903266" fileName="03-04_06-51-06-442/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 8 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_PcCreateAccount[DS_PcCreateAccount]">
+            <environment name="Apple Inc. Chrome 8 (1200 x 831)" make="Apple Inc." browserName="Chrome 8" resolution="1200 x 831">
+                <execution startTime="1614820898027" stopTime="1614820901954" passed="2" failed="1" ignored="0" total="3" success="false" fileName="03-04_06-51-06-442/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/chrome_TS_PcCreateAccount[DS_PcCreateAccount].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1614821177469" endTime="1614821206197" fileName="03-04_06-56-17-469/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 8 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_PcCreateAccount[DS_PcCreateAccount]">
+            <environment name="Apple Inc. Chrome 8 (1200 x 831)" make="Apple Inc." browserName="Chrome 8" resolution="1200 x 831">
+                <execution startTime="1614821202913" stopTime="1614821204838" passed="2" failed="1" ignored="0" total="3" success="false" fileName="03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/chrome_TS_PcCreateAccount[DS_PcCreateAccount].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1614821356217" endTime="1614821548751" fileName="03-04_06-59-16-217/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 8 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Apple Inc. Chrome 8 (1200 x 831)" make="Apple Inc." browserName="Chrome 8" resolution="1200 x 831">
+                <execution startTime="1614821381757" stopTime="1614821535253" passed="20" failed="0" ignored="0" total="20" success="false" fileName="03-04_06-59-16-217/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1614823476087" endTime="1614823513104" fileName="03-04_07-34-36-087/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Windows chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Windows chrome" make="Google" model="Chrome" os="Windows" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-04_07-34-36-087/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1614823738785" endTime="1614823775150" fileName="03-04_07-38-58-785/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Windows chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Windows chrome" make="Google" model="Chrome" os="Windows" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-04_07-38-58-785/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1615612405358" endTime="1615612446517" fileName="03-13_10-43-25-358/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Windows chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Windows chrome" make="Google" model="Chrome" os="Windows" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-43-25-358/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1615612522335" endTime="1615612562570" fileName="03-13_10-45-22-335/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / macOS chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / macOS chrome" make="Google" model="Chrome" os="macOS" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-45-22-335/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1615612606238" endTime="1615612645368" fileName="03-13_10-46-46-238/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Mac OS X chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Mac OS X chrome" make="Google" model="Chrome" os="Mac OS X" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-46-46-238/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1615612767850" endTime="1615612814089" fileName="03-13_10-49-27-850/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Mac OS X chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Mac OS X chrome" make="Google" model="Chrome" os="Mac OS X" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-49-27-850/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1615624676626" endTime="1615624724018" fileName="03-13_14-07-56-626/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="1">
+        <environment name="Apple Inc. Chrome 8 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Apple Inc. Chrome 8 (1200 x 831)" make="Apple Inc." browserName="Chrome 8" resolution="1200 x 831">
+                <execution startTime="1615624708166" stopTime="1615624722127" passed="1" failed="1" ignored="0" total="2" success="false" fileName="03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+</history>

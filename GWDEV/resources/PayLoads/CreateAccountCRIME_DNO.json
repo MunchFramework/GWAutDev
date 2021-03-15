@@ -1,0 +1,98 @@
+{
+    "account": {
+        "account_id": "",
+        "primary_entity": {
+            "name": "asdhfhsdfhj",
+            "business_type": "04"
+        },
+        "account_address": {
+            "address_line_1": "expresscar Main street",
+            "locality": "Chinle",
+            "region": "AZ",
+            "postal_code": "86503",
+            "country": "USA"
+        },
+        "primary_naics_code": "811310"
+    },
+    "submission": {
+        "account_id": "",
+        "business_segment_code": "00PC",
+        "submitted_date": "2020-01-20T00:50:09.407Z",
+        "last_updated_date": null,
+        "effective_date": "2020-01-20T00:50:09.407Z",
+        "expiration_date": "2021-01-31T00:50:09.407Z",
+        "predominant_state_code": "AZ",
+        "producer_id": "17930",
+        "submitting_agent_npn": "4648457",
+        "contacts": [
+        	{
+			"first_name": "nitin",
+			"last_name": "jain",
+			"phone_number": "182-436-2010",
+			"email_address": "nitin.jain@everestre.com",
+			"contact_topics": ["SUBMISSION"]
+			}
+		],
+        "products": [
+            {
+                "product_code": "PC",
+                "offering_code": "EverestExpPrivateCompManagementLiabPolicy",
+                "management_liability": {
+                    "subsidiaries": {
+                        "number_of_subsidiaries": 2,
+                        "prior_year_total_assests": 50000000,
+                        "asset_change_percentage": 25
+                    },
+                    "exposure": {
+                        "revenue": 49000000,
+                        "foreign_employees": 1,
+                        "corporate_assets": 50000000,
+                        "plan_assets": 1000,
+                        "years_in_business": 2,
+                        "number_of_locations": 3,
+                        "percentage_of_voting_shares_owned": 50,
+                        "number_of_foreign_locations": 0,
+                        "prior_year_revenue": 50000000,
+                        "revenue_change_percentage": 24
+                    },
+                    "coverage_parts": [
+                        {
+                            "coverage_part_code": "CRIME",
+                            "crime": {
+                                "expiring_coverage": {
+                                    "limit": 150001,
+                                    "retention": 10
+                                }
+                            },
+                            "coverages": [
+                                {
+                                    "type": "CRIME_EMPLOYEE_THEFT_COVERAGE",
+                                    "limit": 150000,
+                                    "retention": 5000
+                                }
+                            ]
+                        },
+                        
+                        {
+                            "coverage_part_code": "DIRECTORS_AND_OFFICERS",
+                            "directors_and_officers": {
+                                "limit": 100000,
+                                "retention": 10000,
+                                "expiring_coverage": {
+                                    "limit": 100001,
+                                    "retention": 10
+                                },
+                                "shareholders": [
+                                    {
+                                        "type": "DIRECTOR_OFFICER"
+                                    }
+                                ]
+                            }
+                        }
+                       
+                    ]
+                }
+            }
+        ]
+    }
+}

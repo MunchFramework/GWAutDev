@@ -1,0 +1,176 @@
+{
+    "account": {
+        "account_id": "",
+        "primary_entity": {
+            "name": "Dhfvirvio",
+            "business_type": "04"
+        },
+        "account_address": {
+            "address_line_1": "expresscar Main street",
+            "locality": "Chinle",
+            "region": "CT",
+            "postal_code": "06002",
+            "country": "USA"
+        },
+        "primary_naics_code": "811310"
+    },
+    "submission": {
+        "account_id": "",
+        "business_segment_code": "00PC",
+        "submitted_date": "2020-05-14T00:50:09.407Z",
+        "last_updated_date": null,
+        "effective_date": "2020-05-14",
+        "expiration_date": "2021-05-14",
+        "predominant_state_code": "CT",
+        "producer_id": "17930",
+        "submitting_agent_npn": "4648457",
+        "contacts": [
+        	{
+			"first_name": "nitin",
+			"last_name": "jain",
+			"phone_number": "182-436-2010",
+			"email_address": "nitin.jain@everestre.com",
+			"contact_topics": ["SUBMISSION"]
+			}
+		],
+        "products": [
+            {
+                "product_code": "PC",
+                "offering_code": "EverestExpPrivateCompManagementLiabPolicy",
+                "management_liability": {
+                    "subsidiaries": {
+                        "number_of_subsidiaries": 2
+                        
+                    },
+                    "exposure": {
+                        "revenue": 30000000,
+                        "foreign_employees": 1,
+                        "corporate_assets": 40000000,
+                        "plan_assets": 1000,
+                        "years_in_business": 2,
+                        "number_of_locations": 3,
+                        "percentage_of_voting_shares_owned": 50,
+                        "number_of_foreign_locations": 0
+                        
+                    },
+                    "coverage_parts": [
+                    	{
+                            "coverage_part_code": "DIRECTORS_AND_OFFICERS",
+                            "directors_and_officers": {
+                                "limit": 1000000,
+                                "retention": 5000,
+                                
+                                "shareholders": [
+                                    {
+                                        "type": "DIRECTOR_OFFICER"
+                                    }
+                                ]
+                            }
+                        },
+                        
+                        {
+                            "coverage_part_code": "EMPLOYMENT_PRACTICES_LIABILITY",
+                            "employment_practices_liability": {
+                                "limit": 1000000,
+                                "retention": 5000,
+                                
+                                "exposure": {
+                                    "union_emp_C1": 0,
+                            "union_emp_C2": 0,
+                            "union_emp_nj_C3": 0,
+                            "union_emp_ca_C3": 0,
+                            "non_union_full_nj_C3": 0,
+                            "non_union_full_ca_C3": 0,
+                            "non_union_part_nj_C3": 0,
+                            "non_union_part_ca_C3": 0,
+                            "non_union_ICs_nj_C3": 0,
+                            "non_union_ICs_ca_C3": 0,
+                            "non_union_emp_full_C1": 0,
+                            "non_union_emp_full_C2": 0,
+                            "non_union_emp_part_C1": 0,
+                            "non_union_emp_part_C2": 0,
+                            "non_union_ICs_C1": 0,
+                            "non_union_ICs_C2": 0,
+                            "foreign_country_employee_pct": 24,
+                                    "states": [
+                                        {
+                                            "state_code": "AZ"
+                                        },
+                                        {
+                                            "state_code": "WA"
+                                        },
+                                        {
+                                            "state_code": "VA"
+                                        },
+                                        {
+                                            "state_code": "CT"
+                                        },
+                                        {
+                                            "state_code": "MA"
+                                        }
+                                    ]
+                                },
+                                "employee_salaries": {
+                                    "salary_range_percentage": {
+                                        "current_year": [
+                                            {
+                                                "range": "RANGE_50K_TO_125K",
+                                                "percentage_of_employees": 10
+                                            },
+                                            {
+                                                "range": "GREATER_THAN_125K",
+                                                "percentage_of_employees": 10
+                                            }
+                                        ],
+                                        "prior_year": [
+                                            {
+                                                "range": "RANGE_50K_TO_125K",
+                                                "percentage_of_employees": 10
+                                            },
+                                            {
+                                                "range": "GREATER_THAN_125K",
+                                                "percentage_of_employees": 10
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        
+                        {
+                            "coverage_part_code": "FIDUCIARY_LIABILITY",
+                            "fiduciary_liability": {
+                                "limit": 1000000,
+                                "retention": 0,
+                                "expiring_coverage": {
+                                    
+                                    "prior_pending_litigation_date": "2019-04-01T00:50:09.405Z"
+                                },
+                                "employee_benefit_plans": {
+                                	"participants" : 125
+                                    
+                                }
+                            }
+                        },
+                        {
+                            "coverage_part_code": "CRIME",
+                            "crime": {
+                                "expiring_coverage": {
+                                    "limit": 1000000,
+                                    "retention": 10000
+                                }
+                            },
+                            "coverages": [
+                                {
+                                    "type": "CRIME_EMPLOYEE_THEFT_COVERAGE",
+                                    "limit": 1000000,
+                                    "retention": 10000
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

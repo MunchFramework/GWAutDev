@@ -1,0 +1,154 @@
+{
+    "account": {
+        "account_id": "",
+        "primary_entity": {
+            "name": "expresscar",
+            "business_type": "04"
+        },
+        "account_address": {
+            "address_line_1": "expresscar Main street",
+            "locality": "Chinle",
+            "region": "AZ",
+            "postal_code": "86503",
+            "country": "USA"
+        },
+        "primary_naics_code": "811310"
+    },
+    "submission": {
+        "account_id": "",
+        "business_segment_code": "00PC",
+        "submitted_date": "2020-01-20T00:50:09.407Z",
+        "last_updated_date": null,
+        "effective_date": "2020-01-20T00:50:09.407Z",
+        "expiration_date": "2021-01-31T00:50:09.407Z",
+        "predominant_state_code": "AZ",
+        "producer_id": "17930",
+        "submitting_agent_npn": "4648457",
+        "contacts": [
+        	{
+			"first_name": "nitin",
+			"last_name": "jain",
+			"phone_number": "182-436-2010",
+			"email_address": "nitin.jain@everestre.com",
+			"contact_topics": ["SUBMISSION"]
+			}
+		],
+        "products": [
+            {
+                "product_code": "PC",
+                "offering_code": "EverestExpPrivateCompManagementLiabPolicy",
+                "management_liability": {
+                    "subsidiaries": {
+                        "number_of_subsidiaries": 2,
+                        "prior_year_total_assests": 50000000,
+                        "asset_change_percentage": 25
+                    },
+                    "exposure": {
+                        "revenue": 49000000,
+                        "foreign_employees": 1,
+                        "corporate_assets": 50000000,
+                        "plan_assets": 1000,
+                        "years_in_business": 2,
+                        "number_of_locations": 3,
+                        "percentage_of_voting_shares_owned": 50,
+                        "number_of_foreign_locations": 0,
+                        "prior_year_revenue": 50000000,
+                        "revenue_change_percentage": 24
+                    },
+                    "coverage_parts": [
+                       {
+                            "coverage_part_code": "DIRECTORS_AND_OFFICERS",
+                            "directors_and_officers": {
+                                "limit": 100000,
+                                "retention": 10000,
+                                "expiring_coverage": {
+                                    "limit": 100001,
+                                    "retention": 10
+                                },
+                                "shareholders": [
+                                    {
+                                        "type": "DIRECTOR_OFFICER"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "coverage_part_code": "EMPLOYMENT_PRACTICES_LIABILITY",
+                            "employment_practices_liability": {
+                                "limit": 100000,
+                                "retention": 5000,
+                                "expiring_coverage": {
+                                    "limit": 1000000,
+                                    "retention": 6000
+                                },
+                                "exposure": {
+                                   "union_emp_C1": 0,
+                            "union_emp_C2": 0,
+                            "union_emp_nj_C3": 0,
+                            "union_emp_ca_C3": 0,
+                            "non_union_full_nj_C3": 0,
+                            "non_union_full_ca_C3": 0,
+                            "non_union_part_nj_C3": 0,
+                            "non_union_part_ca_C3": 0,
+                            "non_union_ICs_nj_C3": 0,
+                            "non_union_ICs_ca_C3": 0,
+                            "non_union_emp_full_C1": 0,
+                            "non_union_emp_full_C2": 0,
+                            "non_union_emp_part_C1": 0,
+                            "non_union_emp_part_C2": 0,
+                            "non_union_ICs_C1": 0,
+                            "non_union_ICs_C2": 0,
+
+                            "foreign_country_employee_pct": 24,
+                                    "states": [
+                                        {
+                                            "state_code": "AZ"
+                                        },
+                                        {
+                                            "state_code": "WA"
+                                        },
+                                        {
+                                            "state_code": "VA"
+                                        },
+                                        {
+                                            "state_code": "CT"
+                                        },
+                                        {
+                                            "state_code": "MA"
+                                        }
+                                    ]
+                                },
+                                "employee_salaries": {
+                                    "salary_range_percentage": {
+                                        "current_year": [
+                                            {
+                                                "range": "RANGE_50K_TO_125K",
+                                                "percentage_of_employees": 10
+                                            },
+                                            {
+                                                "range": "GREATER_THAN_125K",
+                                                "percentage_of_employees": 10
+                                            }
+                                        ],
+                                        "prior_year": [
+                                            {
+                                                "range": "RANGE_50K_TO_125K",
+                                                "percentage_of_employees": 10
+                                            },
+                                            {
+                                                "range": "GREATER_THAN_125K",
+                                                "percentage_of_employees": 10
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                        
+                       
+                    ]
+                }
+            }
+        ]
+    }
+}

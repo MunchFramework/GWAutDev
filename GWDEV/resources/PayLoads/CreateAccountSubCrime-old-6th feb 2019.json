@@ -1,0 +1,126 @@
+{
+	"account": {
+		"account_id": "",
+		"customer_id": "",
+		"primary_entity": {
+			"name": "jygh",
+			"business_type": "04",
+			"trade_names": [{
+				"trade_name": "Some Corp",
+				"trade_name_type": "DBA"
+			}]
+		},
+		"other_entities": [{
+			"name": "Other entity 1",
+			"business_type": "04",
+			"trade_names": [{
+				"trade_name": "Sample2",
+				"trade_name_type": "AKA"
+			}]
+		}],
+		"account_address": {
+			"address_line_1": "jygh Main street",
+			"address_line_2": "",
+			"address_line_3": "",
+			"address_line_4": "",
+			"locality": "Chinle",
+			"region": "AZ",
+			"postal_code": "86503",
+			"country": "USA"
+		},
+		"phone_number": "9086043000",
+		"primary_naics_code": "811310"
+	},
+	"submission": {
+		"account_id": "",
+		"submitted_date": "2019-09-18T00:50:09.405Z",
+        "effective_date": "2019-10-01T00:50:09.405Z",
+        "expiration_date": "2020-10-01T00:50:09.405Z",
+		"predominant_state_code": "AZ",
+		"producer_id": "17930",
+		"submitting_agent_npn": "{{npn}}",
+		"contacts": [{
+                        "entity_id": "1",
+                        "title": "Mr.",
+                        "first_name": "first_name",
+                        "last_name": "last_name",
+                        "phone_number": "7324565757",
+                        "email_address": "nitin.jain@everestre.com",
+                        "contact_topics": [
+                                "SUBMISSION"
+                        ]
+                }],
+		"products": [{
+			"product_code": "PC",
+			"offering_code": "EverestExpPrivateCompManagementLiabPolicy",
+			"management_liability": {
+				"tax_exempt_status": {
+					"status_type": "VALUE_501C3",
+					"other_status": "XXX",
+					"status_disputed": false,
+					"dispute_explanation": "XXX"
+				},
+				"subsidiaries": {
+					"subsidiary_name": "XXX",
+					"nature_of_business": "XXX",
+					"total_assets": 122,
+					"prior_year_total_assests" : 50000000,
+					"asset_change_percentage" : 25,
+					"coverage_requested": true,
+					"number_of_subsidiaries" : 2,
+					"tax_exempt_status": {
+						"status_type": "VALUE_501C3",
+						"other_status": "XXX",
+						"status_disputed": false,
+						"dispute_explanation": "XXX"
+					}
+				},
+            "underwriter_questions_mapping": {
+            	"liability_assets_diff":  1,
+            	"net_income_current_year": 1,
+            	"net_income_prior_year" : 0,
+            	"net_income_change_percentage" :  24,
+            	"cash_flow_current_year": 1
+            },
+			"exposure": {
+				"revenue": 50000000,
+				"prior_year_revenue" : 50000000,
+				"revenue_change_percentage": 24,
+				"foreign_employees": 1,
+				"corporate_assets": 50000000, 
+				"number_of_locations": 3,
+	            "number_of_foreign_locations" : 0, 
+	            "percentage_of_voting_shares_owned": 50
+			},
+			"coverage_parts": [
+			    {
+			            "coverage_part_code": "CRIME",
+			            "crime": {
+			                    "expiring_coverage": {
+			                            "limit": 150001,
+			                            "retention": 10,
+			                            "carrier": "XXX",
+			                            "premium": 10,
+			                            "prior_pending_litigation_date": "2019-04-01T00:50:09.405Z"
+			                    }
+			            },
+			            "coverages": [
+			            	{
+									"type": "CRIME_EMPLOYEE_THEFT_COVERAGE",
+									"limit": {
+											"type": "AGGREGATE",
+											"amount": 150000
+									},
+									"deductible": {
+											"type": "PER_OCCURRENCE",
+											"amount": 15000
+									}
+								}
+			            ]
+			    }
+			]
+                        }
+                }]
+        }
+
+}

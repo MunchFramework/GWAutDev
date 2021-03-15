@@ -1,0 +1,20 @@
+Mar 04, 2021 6:56:44 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [3998] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/console.txt]
+Mar 04, 2021 6:56:44 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [3998] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/console.txt]
+Mar 04, 2021 6:56:44 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [540] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/wcag.html]
+Mar 04, 2021 6:56:44 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [540] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/wcag.html]
+Mar 04, 2021 6:56:44 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [404] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/chrome_TS_PcCreateAccount[DS_PcCreateAccount].csv]
+Mar 04, 2021 6:56:44 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [404] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/chrome_TS_PcCreateAccount[DS_PcCreateAccount].csv]
+Mar 04, 2021 6:56:44 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [17216] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/chrome_TS_PcCreateAccount[DS_PcCreateAccount].html]
+Mar 04, 2021 6:56:44 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [17216] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/chrome_TS_PcCreateAccount[DS_PcCreateAccount].html]
+Mar 04, 2021 6:56:45 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [192877] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/failureDOM.xml]
+Mar 04, 2021 6:56:45 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [192877] bytes to [/Users/manjunathda/eclipse-workspace/GWDEV/resources/test-output/03-04_06-56-17-469/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/failureDOM.xml]

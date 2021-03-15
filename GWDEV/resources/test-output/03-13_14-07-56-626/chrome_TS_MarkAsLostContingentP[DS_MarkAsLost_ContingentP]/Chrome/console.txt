@@ -1,0 +1,172 @@
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [7760] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/console.txt]
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [7760] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/console.txt]
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [554] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/wcag.html]
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [554] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/wcag.html]
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [239] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].csv]
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [239] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].csv]
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [11491] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html]
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [11491] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html]
+Mar 13, 2021 2:08:42 PM org.xframium.device.ng.AbstractSeleniumTest cleanUpConnectedDevice
+SEVERE: Error taking screenshot
+org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=89.0.4389.82)
+  (Driver info: chromedriver=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}),platform=Mac OS X 11.2.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.51.0', revision: '1af067d', time: '2016-02-05 19:15:17'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59077}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}), userDataDir=/var/folders/z2/jrrc_j3s1n3czk214nsh64tc0000gn/T/.com.google.Chrome.42YfVy}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=89.0.4389.82, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 64fc867db2a32a0ff87fa75f9d48be4d
+Command duration or timeout: 25 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.10'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59077}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}), userDataDir=/var/folders/z2/jrrc_j3s1n3czk214nsh64tc0000gn/T/.com.google.Chrome.42YfVy}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=89.0.4389.82, browserConnectionEnabled=false, proxy={}, nativeEvents=true, webdriver.remote.sessionid=7ad7a922-958f-4a31-912f-8878592a0f0d, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 7ad7a922-958f-4a31-912f-8878592a0f0d
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:335)
+	at org.xframium.device.factory.DeviceWebDriver.getScreenshotAs(DeviceWebDriver.java:811)
+	at org.xframium.device.ng.AbstractSeleniumTest.cleanUpConnectedDevice(AbstractSeleniumTest.java:668)
+	at org.xframium.device.ng.AbstractSeleniumTest.afterMethod(AbstractSeleniumTest.java:564)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=89.0.4389.82)
+  (Driver info: chromedriver=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}),platform=Mac OS X 11.2.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.51.0', revision: '1af067d', time: '2016-02-05 19:15:17'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59077}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}), userDataDir=/var/folders/z2/jrrc_j3s1n3czk214nsh64tc0000gn/T/.com.google.Chrome.42YfVy}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=89.0.4389.82, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 64fc867db2a32a0ff87fa75f9d48be4d
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.10'
+Driver info: driver.version: RemoteWebDriver
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:335)
+	at org.openqa.selenium.remote.server.handler.CaptureScreenshot.call(CaptureScreenshot.java:36)
+	at org.openqa.selenium.remote.server.handler.CaptureScreenshot.call(CaptureScreenshot.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Mar 13, 2021 2:08:42 PM org.xframium.device.ng.AbstractSeleniumTest cleanUpConnectedDevice
+SEVERE: Error taking screenshot
+org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=89.0.4389.82)
+  (Driver info: chromedriver=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}),platform=Mac OS X 11.2.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.51.0', revision: '1af067d', time: '2016-02-05 19:15:17'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59077}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}), userDataDir=/var/folders/z2/jrrc_j3s1n3czk214nsh64tc0000gn/T/.com.google.Chrome.42YfVy}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=89.0.4389.82, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 64fc867db2a32a0ff87fa75f9d48be4d
+Command duration or timeout: 25 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.10'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59077}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}), userDataDir=/var/folders/z2/jrrc_j3s1n3czk214nsh64tc0000gn/T/.com.google.Chrome.42YfVy}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=89.0.4389.82, browserConnectionEnabled=false, proxy={}, nativeEvents=true, webdriver.remote.sessionid=7ad7a922-958f-4a31-912f-8878592a0f0d, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 7ad7a922-958f-4a31-912f-8878592a0f0d
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:335)
+	at org.xframium.device.factory.DeviceWebDriver.getScreenshotAs(DeviceWebDriver.java:811)
+	at org.xframium.device.ng.AbstractSeleniumTest.cleanUpConnectedDevice(AbstractSeleniumTest.java:668)
+	at org.xframium.device.ng.AbstractSeleniumTest.afterMethod(AbstractSeleniumTest.java:564)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=89.0.4389.82)
+  (Driver info: chromedriver=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}),platform=Mac OS X 11.2.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.51.0', revision: '1af067d', time: '2016-02-05 19:15:17'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59077}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}), userDataDir=/var/folders/z2/jrrc_j3s1n3czk214nsh64tc0000gn/T/.com.google.Chrome.42YfVy}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=89.0.4389.82, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 64fc867db2a32a0ff87fa75f9d48be4d
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.10'
+Driver info: driver.version: RemoteWebDriver
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:335)
+	at org.openqa.selenium.remote.server.handler.CaptureScreenshot.call(CaptureScreenshot.java:36)
+	at org.openqa.selenium.remote.server.handler.CaptureScreenshot.call(CaptureScreenshot.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [3091] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/generationFailure.txt]
+Mar 13, 2021 2:08:42 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [3091] bytes to [/Users/manjunathda/GW/GWDEV/resources/test-output/03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/generationFailure.txt]

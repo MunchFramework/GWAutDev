@@ -1,0 +1,105 @@
+{
+    "account": {
+        "account_id": "",
+        "primary_entity": {
+            "name": "hjfgdfgf",
+            "business_type": "04",
+            "trade_names": [
+                {
+                    "trade_name": "Some Trade Corp",
+                    "trade_name_type": "DBA"
+                }
+            ]
+        },
+        "other_entities": [
+            {
+                "name": "Other entity 1",
+                "business_type": "04",
+                "trade_names": [
+                    {
+                        "trade_name": "Some Trade Corp2",
+                        "trade_name_type": "AKA"
+                    }
+                ]
+            }
+        ],
+        "account_address": {
+            "address_line_1": "fidtets street",
+            "address_line_2": "",
+            "address_line_3": "",
+            "address_line_4": "",
+            "locality": "Chinle",
+            "region": "AZ",
+            "postal_code": "86503",
+            "country": "USA"
+        },
+        "primary_naics_code": "111130"
+    },
+    "submission": {
+        "account_id": "",
+        "submitted_date": "2020-01-27T00:50:09.405Z",
+        "effective_date": "2020-02-01T00:50:09.405Z",
+        "expiration_date": "2021-02-01T00:50:09.405Z",
+        "predominant_state_code": "AZ",
+        "producer_id": "05956",
+        "submitting_agent_npn": "6566423",
+	"contacts": [{
+            "email_address": "ac.a@com"         
+        }],
+
+        "products": [
+            {
+                "product_code": "CY",
+                "offering_code": "EverestCyberElevationPolicy",
+                "management_liability": {
+                    "underwriting_questions": [
+                        {
+                            "question_id": "ML_COMM_OFAC_BLOCK_EXISTS",
+                            "selected": false,
+                            "explanation": "Was OFAC block triggered?"
+                        }
+                    ],
+                    "exposure": {
+                        "revenue": 1000000,
+                        "prior_year_revenue": 0,
+                        "corporate_assets": 50000000,
+                        "foreign_employees": 1
+                    },
+                    "coverage_parts": [
+                        {
+                            "coverage_part_code": "CYBER_LIABILITY",
+                            "cyber_liability": {
+                                "limit": 100000,
+                                "retention": 26000,
+                                "total_storage_of_sensitive_data": "UNDER_50000",
+                                "technology_errors_and_omissions": false,
+                                "use_of_encryption": true,
+                                "legal_action_or_cyber_incident_been_resolved": true,
+                                "what_was_the_nature_of_the_legal_action_or_cyber_incident": "ABCD",
+                                "how_much_was_the_total_loss": "ABCD",
+                                "what_remedial_actions_were_taken": "ABCD"
+                            },
+                            "underwriting_questions": [
+                                {
+                                    "question_id": "ML_CL_CYBER_EXPERIENCED_SYSTEMBREACH_NETWORKOUTAGE",
+                                    "selected": false,
+                                    "explanation": "During the past 3 years, has the Applicant experienced a system breach, network outage lasting longer than 4 hours, hacking incident, data theft, cyber extortion threat, or denial of service attack?"
+                                },
+                                {
+                                    "question_id": "ML_CL_CYBER_PRIOR_KNOWLEDGE_OF_POTENTIAL_CLAIM",
+                                    "selected": false,
+                                    "explanation": "Is any person or entity proposed for coverage aware of any fact, circumstance, event, error or omission which he or she has reason to believe might give rise to any Claim or loss or obligation to provide breach notification that would fall within the scope of the proposed coverage?"
+                                },
+                                {
+                                    "question_id": "ML_CL_CYBER_LACK_OF_CRIME_CONTROLS",
+                                    "selected": true,
+                                    "explanation": "Has the Applicant conducted social engineering and/or wire transfer fraud training for all employees responsible for disbursing or transmitting funds in the last 12 months?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

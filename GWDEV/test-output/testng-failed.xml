@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="test.java.com.everest.test.TestDriver_Lost_Declaine">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="AfterMethod"/>
+          <include name="setupSuite"/>
+          <include name="afterMethod"/>
+          <include name="cleanupSuite"/>
+          <include name="TS_MarkAsLostContingentP" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- test.java.com.everest.test.TestDriver_Lost_Declaine -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

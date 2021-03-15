@@ -1,0 +1,52 @@
+{
+    "account": {
+        "account_id": "",
+        "primary_entity": {
+            "name": "Test8131410",
+            "business_type": "04"
+        },
+        "phone_number": "222-333-3333",
+        "account_address": {
+            "address_line_1": "uploadTest street",
+            "locality": "Chinle",
+            "region": "AZ",
+            "postal_code": "86503",
+            "country": "USA"
+        },
+        "primary_naics_code": "811310"
+    },
+    "submission": {
+       "account_id": "",
+        "submitted_date": "2020-08-03T00:50:09.405Z",
+        "effective_date": "2020-08-03",
+        "expiration_date": "2021-08-03",
+        "predominant_state_code": "AZ",
+        "producer_id": "05956",
+        "contacts": [{
+           "email_address": "aa@aaa.com" 
+        }],
+        "products": [
+            {
+                "product_code": "CY",
+                "offering_code": "EverestCyberElevationPolicy",
+                "management_liability": {
+                    "exposure": {
+                        "revenue": 25000000,
+                        "prior_year_revenue": 0,
+                        "corporate_assets": 50000000,
+                        "foreign_employees": 1
+                    },
+                    "coverage_parts": [
+                        {
+                            "coverage_part_code": "CYBER_LIABILITY",
+                            "cyber_liability": {
+                                "limit": 1000000,
+                                "retention": 1000
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

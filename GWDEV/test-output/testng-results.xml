@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="18" total="19" passed="0" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-04T07:39:20 IST" name="Suite" finished-at="2021-03-04T07:39:35 IST" duration-ms="14276">
+    <groups>
+    </groups>
+    <test started-at="2021-03-04T07:39:20 IST" name="Test" finished-at="2021-03-04T07:39:35 IST" duration-ms="14276">
+      <class name="test.java.com.everest.test.TestDriver_Forms">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:test.java.com.everest.test.TestDriver_Forms@225129c]" started-at="2021-03-04T07:38:58 IST" name="setupSuite" finished-at="2021-03-04T07:39:20 IST" duration-ms="22687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="cleanupSuite()[pri:0, instance:test.java.com.everest.test.TestDriver_Forms@225129c]" started-at="2021-03-04T07:39:35 IST" name="cleanupSuite" finished-at="2021-03-04T07:39:35 IST" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanupSuite -->
+      </class> <!-- test.java.com.everest.test.TestDriver_Forms -->
+      <class name="test.java.com.everest.test.TestDriver_Lost_Declaine">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:test.java.com.everest.test.TestDriver_Lost_Declaine@571c5681]" started-at="2021-03-04T07:39:21 IST" name="beforeMethod" finished-at="2021-03-04T07:39:33 IST" duration-ms="12785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.com.everest.test.TestDriver_Lost_Declaine.TS_MarkAsLostContingentP(org.xframium.device.ng.AbstractSeleniumTest$TestName,org.xframium.spi.Device) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@26dc9bd5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TS_MarkAsLostContingentP(org.xframium.device.ng.AbstractSeleniumTest$TestName, org.xframium.spi.Device)[pri:0, instance:test.java.com.everest.test.TestDriver_Lost_Declaine@571c5681]" started-at="2021-03-04T07:39:33 IST" name="TS_MarkAsLostContingentP" data-provider="DeviceManager" finished-at="2021-03-04T07:39:34 IST" duration-ms="211" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]-->Google Chrome [Chrome]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Google Chrome (Chrome)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.getCurrentUrl()" because "this.webDriver" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.getCurrentUrl()" because "this.webDriver" is null
+at org.xframium.device.factory.DeviceWebDriver.getCurrentUrl(DeviceWebDriver.java:408)
+at test.java.com.everest.test.TestDriver_Lost_Declaine.TS_MarkAsLostContingentP(TestDriver_Lost_Declaine.java:282)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:77)
+at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:15)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+at java.base/java.lang.Thread.run(Thread.java:832)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_MarkAsLostContingentP -->
+        <test-method is-config="true" signature="AfterMethod(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:test.java.com.everest.test.TestDriver_Lost_Declaine@571c5681]" started-at="2021-03-04T07:39:34 IST" name="AfterMethod" finished-at="2021-03-04T07:39:34 IST" duration-ms="43" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.com.everest.test.TestDriver_Lost_Declaine.TS_MarkAsLostContingentP(org.xframium.device.ng.AbstractSeleniumTest$TestName,org.xframium.spi.Device) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=TS_MarkAsLostContingentP status=FAILURE method=TestDriver_Lost_Declaine.TS_MarkAsLostContingentP(org.xframium.device.ng.AbstractSeleniumTest$TestName, org.xframium.spi.Device)[pri:0, instance:test.java.com.everest.test.TestDriver_Lost_Declaine@571c5681] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method, [Ljava.lang.Object;, org.testng.ITestResult)[pri:0, instance:test.java.com.everest.test.TestDriver_Lost_Declaine@571c5681]" started-at="2021-03-04T07:39:34 IST" name="afterMethod" finished-at="2021-03-04T07:39:34 IST" duration-ms="271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.com.everest.test.TestDriver_Lost_Declaine.TS_MarkAsLostContingentP(org.xframium.device.ng.AbstractSeleniumTest$TestName,org.xframium.spi.Device) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@26dc9bd5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[TestResult name=TS_MarkAsLostContingentP status=FAILURE method=TestDriver_Lost_Declaine.TS_MarkAsLostContingentP(org.xframium.device.ng.AbstractSeleniumTest$TestName, org.xframium.spi.Device)[pri:0, instance:test.java.com.everest.test.TestDriver_Lost_Declaine@571c5681] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.java.com.everest.test.TestDriver_Lost_Declaine -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
