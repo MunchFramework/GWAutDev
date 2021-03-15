@@ -5,6 +5,10 @@ services:
     container_name: selenium-hub
     ports:
       - "4444:4444"
+    environment:
+      - GRID_MAX_SESSION:16
+      - GRID_BROWSER_TIMEOUT:5000
+      - GRID_TIMEOUT:5000
   chrome:
     image: selenium/node-chrome-debug:3.141.59
     ports:
@@ -16,6 +20,8 @@ services:
     environment:
       - HUB_HOST=selenium-hub
       - HUB_PORT=4444
+      - NODE_MAX_SESSION:4
+      - NODE_MAX_INSTANCES:4
     links:
       - selenium-hub
 
@@ -28,7 +34,9 @@ services:
     depends_on:
       - selenium-hub
     environment:
-      - HUB_HOST=selenium-hub
+      -  HUB_HOST=selenium-hub
       - HUB_PORT=4444
+      - NODE_MAX_SESSION:4
+      - NODE_MAX_INSTANCES:4
     links:
       - selenium-hub

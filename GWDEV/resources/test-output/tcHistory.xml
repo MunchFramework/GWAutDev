@@ -26,6 +26,9 @@
         <environment name="Google Chrome / Mac chrome" make="Google" model="Chrome" os="Mac" browserName="chrome">
             <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_09-16-02-364/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
         </environment>
+        <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_12-20-39-846/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+        </environment>
     </testCase>
     <testCase name="Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]">
         <environment name="Microsoft Internet Explorer / Windows Internet Explorer" make="Microsoft" model="Internet Explorer" os="Windows" browserName="Internet Explorer">
@@ -134,6 +137,14 @@
         <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
             <environment name="Google Chrome / Mac chrome" make="Google" model="Chrome" os="Mac" browserName="chrome">
                 <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_09-16-02-364/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1615791039846" endTime="1615791077528" fileName="03-15_12-20-39-846/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Linux chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_12-20-39-846/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
             </environment>
         </testCase>
     </suite>
