@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deviceRegistry xmlns="http://www.xframium.org/deviceRegistry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xframium.org/deviceRegistry http://www.xframium.org/xsd/deviceManagement/deviceRegistry.xsd">
 	
-	<device name="Firefox" os="Windows" browserName="firefox" manufacturer="Mozilla" model="Firefox" active="false" />
-	<device name="Chrome" os="Mac OS X" browserName="chrome" manufacturer="Google" model="Chrome" active="true" />
+	<device name="Firefox" os="Mac" browserName="firefox" manufacturer="Mozilla" model="Firefox" active="false" />
+	<device name="Chrome" os="Linux" browserName="chrome" manufacturer="Google" model="Chrome" active="true" />
 	<device name="Internet Explorer" browserName="Internet Explorer" manufacturer="Microsoft" model="Internet Explorer" os="Windows" availableDevices="1" active="false">
 	<capability name="ignoreProtectedModeSettings" class="BOOLEAN">true</capability>
   	</device>

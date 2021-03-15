@@ -23,6 +23,9 @@
             <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-46-46-238/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
             <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-13_10-49-27-850/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
         </environment>
+        <environment name="Google Chrome / Mac chrome" make="Google" model="Chrome" os="Mac" browserName="chrome">
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_09-16-02-364/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+        </environment>
     </testCase>
     <testCase name="Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]">
         <environment name="Microsoft Internet Explorer / Windows Internet Explorer" make="Microsoft" model="Internet Explorer" os="Windows" browserName="Internet Explorer">
@@ -123,6 +126,14 @@
         <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
             <environment name="Apple Inc. Chrome 8 (1200 x 831)" make="Apple Inc." browserName="Chrome 8" resolution="1200 x 831">
                 <execution startTime="1615624708166" stopTime="1615624722127" passed="1" failed="1" ignored="0" total="2" success="false" fileName="03-13_14-07-56-626/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1615779962364" endTime="1615780023930" fileName="03-15_09-16-02-364/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Mac chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Mac chrome" make="Google" model="Chrome" os="Mac" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_09-16-02-364/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
             </environment>
         </testCase>
     </suite>
