@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cloudRegistry xmlns="http://www.xframium.org/cloudRegistry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xframium.org/cloudRegistry http://www.xframium.org/xsd/deviceManagement/cloudRegistry.xsd">
 		
-	<cloud name="local" userName="" password="" hostName="0.0.0.0:4444" proxyHost="" providerType="SELENIUM"/>
-	<cloud name="MyLocal" userName="damanju92" password="b6ca5385-0370-437d-b557-785c688c8468" hostName="ondemand.saucelabs.com" proxyHost="" providerType="SAUCELABS"/>	
+	<cloud name="local" userName="" password="" hostName="127.0.0.1:4444" proxyHost="" providerType="SELENIUM"/>
+	<!-- <cloud name="MyLocal" userName="damanju92" password="b6ca5385-0370-437d-b557-785c688c8468" hostName="ondemand.saucelabs.com" proxyHost="" providerType="SAUCELABS"/>	  -->
 	
 </cloudRegistry>
