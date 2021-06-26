@@ -6,7 +6,7 @@ cloudRegistry.fileName=../resources/cloudRegistry.xml
 cloudRegistry.cloudUnderTest=local
 #cloudRegistry.cloudUnderTest=MyLocal
 
-#sa
+#
 # Application Registry
 #
 applicationRegistry.provider=XML
@@ -25,9 +25,7 @@ deviceManagement.fileName=../resources/deviceRegistry.xml
 # 
 artifactProducer.provider=Perfecto
 artifactProducer.parentFolder=test-output
-artifactProducer.automated=EXECUTION_REPORT_HTML
-
-
+artifactProducer.automated=EXECUTION_REPORT_HTML,FAILURE_SOURCE,CONSOLE_LOG,WCAG_REPORT,EXECUTION_RECORD_CSV,EXECUTION_RECORD_HTML,REPORTIUM,SAUCE_LABS
 
 #
 # Page Object Configuration
@@ -36,40 +34,14 @@ pageManagement.siteName=mninsta
 pageManagement.provider=XML
 pageManagement.fileName=../resources/pageElements.xml
 
-
-# sConfig for implicit waits
+# Config for implicit waits
 driver.propertyAdapters=org.xframium.device.property.SeleniumPropertyAdapter
 selenium.timeouts.implicitWait=20000
 selenium.timeouts.pageLoad=120000
 selenium.timeouts.setScript=30000
 
-
-#testset.path=jdbc:ucanaccess://resources//TestSet.accdb
 testset.path=resources//TestSet.xlsx
-images.path=resources\\Images\\
-download.path=resources\\PDFs\\
-pdf.path=resources\\PDFs\\
-
-#screenshot.path=C:\\Results\\ScreenshotsUM
-screenshot.path=D:\\Results\\ScreenshotsUM
-report.pdf=No
-
-#path provided to write data to excel
 data.path=resources//TestData.xlsx
-
-#pdf.path=D:\\Results\\Insureon
-payLoad.path=resources\\PayLoads\\
-property.path=resources\\SharedData.properties
-bindWait=120000
-endorsementWait=240000
-PolicyIssuanceWait=240000
-ClassCode.Path=resources\\ClassCode_Report\\
-#pdf.path=D:\\Results\\Insureon\\Quote\\
-Print.Writer=D:\\Selenium\\Projects\\Automation_GW\\resources
-
-result.xlsx=resources\\TestSet.xlsx
-#htmlresult.path=C:\\Results\\HTMLUM
-htmlresult.path=D:\\Results\\HTMLUM
 
 #qtest parameters
 qtest.updatetestset=no
@@ -78,11 +50,7 @@ qtest.updateenv=no
 qtest.endpoint=https://everest.qtestnet.com
 qtest.url=https://everest.qtestnet.com
 qtest.projectid=82342
-
 qtest.testcycle=CL-1148 R5.0.2_Preprod_Round2
 qtest.testsuite=TS-2038 Backward Comp
 qtest.ci=no
-
-
-
 

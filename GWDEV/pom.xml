@@ -30,7 +30,7 @@
  <!-- Build -->
   
   <build>
- <directory>target</directory> 
+<directory>target</directory> 
  <outputDirectory>test-output/target/classes</outputDirectory> 
  <testOutputDirectory>target/classes</testOutputDirectory>
  <sourceDirectory>src</sourceDirectory>  
