@@ -11,7 +11,7 @@ cloudRegistry.cloudUnderTest=local
 #
 applicationRegistry.provider=XML
 applicationRegistry.fileName=../resources/applicationRegistry.xml
-applicationRegistry.applicationUnderTest=GuideWire
+applicationRegistry.applicationUnderTest=mninsta
 
 #
 # Device Management
@@ -25,14 +25,14 @@ deviceManagement.fileName=../resources/deviceRegistry.xml
 # 
 artifactProducer.provider=Perfecto
 artifactProducer.parentFolder=test-output
-artifactProducer.automated=EXECUTION_REPORT_HTML,FAILURE_SOURCE,CONSOLE_LOG,WCAG_REPORT,EXECUTION_RECORD_CSV,EXECUTION_RECORD_HTML,REPORTIUM,SAUCE_LABS
+artifactProducer.automated=EXECUTION_REPORT_HTML
 
 
 
 #
 # Page Object Configuration
 #
-pageManagement.siteName=GuideWire
+pageManagement.siteName=mninsta
 pageManagement.provider=XML
 pageManagement.fileName=../resources/pageElements.xml
 

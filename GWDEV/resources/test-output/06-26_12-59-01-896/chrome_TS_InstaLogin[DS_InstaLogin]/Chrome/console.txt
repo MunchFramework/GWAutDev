@@ -1,0 +1,20 @@
+Jun 26, 2021 12:59:13 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [3900] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/console.txt]
+Jun 26, 2021 12:59:13 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [3900] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/console.txt]
+Jun 26, 2021 12:59:13 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [531] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/wcag.html]
+Jun 26, 2021 12:59:13 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [531] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/wcag.html]
+Jun 26, 2021 12:59:13 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [417] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].csv]
+Jun 26, 2021 12:59:13 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [417] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].csv]
+Jun 26, 2021 12:59:13 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [11968] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html]
+Jun 26, 2021 12:59:13 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [11968] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html]
+Jun 26, 2021 12:59:14 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [86634] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/failureDOM.xml]
+Jun 26, 2021 12:59:14 PM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [86634] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/failureDOM.xml]

@@ -1,0 +1,11 @@
+no such window: window was already closed
+  (Session info: chrome=91.0.4472.114)
+Build info: version: '3.7.0', revision: '2321c73', time: '2017-11-02T22:12:12.411Z'
+System info: host: 'Bonjour.lan', ip: '2409:4070:4402:118c:2420:d245:b251:199a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: unknown
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}), userDataDir=/var/folders/z2/jrrc_j3s1n3czk214nsh64tc0000gn/T/.com.google.Chrome.LKRyDx}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy={}, goog:chromeOptions={debuggerAddress=localhost:55054}, acceptInsecureCerts=false, browserVersion=91.0.4472.114, browserName=chrome, platformName=mac os x, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]
+Session ID: fe3c2cb4e034294a03f80f22255b3d90

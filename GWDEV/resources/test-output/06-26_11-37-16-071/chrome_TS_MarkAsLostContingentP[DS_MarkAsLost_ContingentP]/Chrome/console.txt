@@ -1,0 +1,124 @@
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [2884] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/console.txt]
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [2884] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/console.txt]
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [554] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/wcag.html]
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [554] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/wcag.html]
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [156] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].csv]
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [156] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].csv]
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [4183] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html]
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [4183] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html]
+Jun 26, 2021 11:38:18 AM org.xframium.device.ng.AbstractSeleniumTest cleanUpConnectedDevice
+SEVERE: Error taking screenshot
+org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=91.0.4472.114)
+Build info: version: '3.7.0', revision: '2321c73', time: '2017-11-02T22:12:12.411Z'
+System info: host: 'Bonjour.lan', ip: '2409:4070:4402:118c:2420:d245:b251:199a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: unknown
+Command duration or timeout: 14 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}), userDataDir=/var/folders/z2/jrrc_j3s1n3czk214nsh64tc0000gn/T/.com.google.Chrome.LKRyDx}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy={}, goog:chromeOptions={debuggerAddress=localhost:55054}, acceptInsecureCerts=false, browserVersion=91.0.4472.114, browserName=chrome, platformName=mac os x, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]
+Session ID: fe3c2cb4e034294a03f80f22255b3d90
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:335)
+	at org.xframium.device.factory.DeviceWebDriver.getScreenshotAs(DeviceWebDriver.java:811)
+	at org.xframium.device.ng.AbstractSeleniumTest.cleanUpConnectedDevice(AbstractSeleniumTest.java:668)
+	at org.xframium.device.ng.AbstractSeleniumTest.afterMethod(AbstractSeleniumTest.java:564)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=91.0.4472.114)
+Build info: version: '3.7.0', revision: '2321c73', time: '2017-11-02T22:12:12.411Z'
+System info: host: 'Bonjour.lan', ip: '2409:4070:4402:118c:2420:d245:b251:199a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: unknown
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: unknown
+
+Jun 26, 2021 11:38:18 AM org.xframium.device.ng.AbstractSeleniumTest cleanUpConnectedDevice
+SEVERE: Error taking screenshot
+org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=91.0.4472.114)
+Build info: version: '3.7.0', revision: '2321c73', time: '2017-11-02T22:12:12.411Z'
+System info: host: 'Bonjour.lan', ip: '2409:4070:4402:118c:2420:d245:b251:199a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: unknown
+Command duration or timeout: 14 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}), userDataDir=/var/folders/z2/jrrc_j3s1n3czk214nsh64tc0000gn/T/.com.google.Chrome.LKRyDx}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy={}, goog:chromeOptions={debuggerAddress=localhost:55054}, acceptInsecureCerts=false, browserVersion=91.0.4472.114, browserName=chrome, platformName=mac os x, setWindowRect=true, webauthn:extension:largeBlob=true, webauthn:virtualAuthenticators=true}]
+Session ID: fe3c2cb4e034294a03f80f22255b3d90
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:335)
+	at org.xframium.device.factory.DeviceWebDriver.getScreenshotAs(DeviceWebDriver.java:811)
+	at org.xframium.device.ng.AbstractSeleniumTest.cleanUpConnectedDevice(AbstractSeleniumTest.java:668)
+	at org.xframium.device.ng.AbstractSeleniumTest.afterMethod(AbstractSeleniumTest.java:564)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: window was already closed
+  (Session info: chrome=91.0.4472.114)
+Build info: version: '3.7.0', revision: '2321c73', time: '2017-11-02T22:12:12.411Z'
+System info: host: 'Bonjour.lan', ip: '2409:4070:4402:118c:2420:d245:b251:199a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: unknown
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'Bonjour.lan', ip: '192.168.1.16', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: unknown
+
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [1416] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/generationFailure.txt]
+Jun 26, 2021 11:38:18 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [1416] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/generationFailure.txt]

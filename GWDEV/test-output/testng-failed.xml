@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Test(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="test.java.com.everest.test.TestDriver_Lost_Declaine">
+      <class name="test.java.com.mn.insta.test.TestDriver_ApplicationName">
         <methods>
-          <include name="beforeMethod"/>
           <include name="AfterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="TS_InstaLogin" invocation-numbers="0"/>
           <include name="setupSuite"/>
-          <include name="afterMethod"/>
           <include name="cleanupSuite"/>
-          <include name="TS_MarkAsLostContingentP" invocation-numbers="0"/>
+          <include name="afterMethod"/>
         </methods>
-      </class> <!-- test.java.com.everest.test.TestDriver_Lost_Declaine -->
+      </class> <!-- test.java.com.mn.insta.test.TestDriver_ApplicationName -->
     </classes>
-  </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

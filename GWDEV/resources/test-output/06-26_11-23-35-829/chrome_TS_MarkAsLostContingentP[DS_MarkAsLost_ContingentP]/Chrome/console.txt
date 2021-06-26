@@ -1,0 +1,70 @@
+Jun 26, 2021 11:24:09 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [29746] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/console.txt]
+Jun 26, 2021 11:24:09 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [29746] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/console.txt]
+Jun 26, 2021 11:24:09 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [551] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/wcag.html]
+Jun 26, 2021 11:24:09 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [551] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/wcag.html]
+Jun 26, 2021 11:24:09 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [0] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].csv]
+Jun 26, 2021 11:24:09 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [0] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].csv]
+Jun 26, 2021 11:24:09 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [2920] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html]
+Jun 26, 2021 11:24:09 AM org.xframium.device.artifact.Artifact writeToDisk
+INFO: Attempting to write [2920] bytes to [/Users/manjunathda/git/GWAutDev/GWDEV/resources/test-output/06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html]
+Jun 26, 2021 11:24:09 AM org.xframium.device.ng.AbstractSeleniumTest cleanUpConnectedDevice
+SEVERE: Error acquiring Artifacts
+java.lang.NullPointerException
+	at org.xframium.device.artifact.api.SeleniumArtifactProducer._getArtifact(SeleniumArtifactProducer.java:159)
+	at org.xframium.device.artifact.AbstractArtifactProducer.getArtifact(AbstractArtifactProducer.java:117)
+	at org.xframium.device.factory.DeviceWebDriver.getArtifact(DeviceWebDriver.java:732)
+	at org.xframium.device.ng.AbstractSeleniumTest.cleanUpConnectedDevice(AbstractSeleniumTest.java:703)
+	at org.xframium.device.ng.AbstractSeleniumTest.afterMethod(AbstractSeleniumTest.java:564)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Jun 26, 2021 11:24:09 AM org.xframium.device.ng.AbstractSeleniumTest cleanUpConnectedDevice
+SEVERE: Error acquiring Artifacts
+java.lang.NullPointerException
+	at org.xframium.device.artifact.api.SeleniumArtifactProducer._getArtifact(SeleniumArtifactProducer.java:159)
+	at org.xframium.device.artifact.AbstractArtifactProducer.getArtifact(AbstractArtifactProducer.java:117)
+	at org.xframium.device.factory.DeviceWebDriver.getArtifact(DeviceWebDriver.java:732)
+	at org.xframium.device.ng.AbstractSeleniumTest.cleanUpConnectedDevice(AbstractSeleniumTest.java:703)
+	at org.xframium.device.ng.AbstractSeleniumTest.afterMethod(AbstractSeleniumTest.java:564)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+

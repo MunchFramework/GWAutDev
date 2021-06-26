@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<history xmlns="http://www.xframium.org/tcHistory" name="GuideWire">
+<history xmlns="http://www.xframium.org/tcHistory" name="mninsta">
+    <testCase name="chrome_TS_InstaLogin[DS_InstaLogin]">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+            <execution startTime="1624691286850" stopTime="1624691287685" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_12-37-52-442/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            <execution startTime="1624692447272" stopTime="1624692448144" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_12-57-15-193/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            <execution startTime="1624692552964" stopTime="1624692553772" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            <execution startTime="1624692977506" stopTime="1624692978471" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_13-06-04-751/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            <execution startTime="1624693094888" stopTime="1624693095773" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_13-07-59-288/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            <execution startTime="1624693208219" stopTime="1624693209238" passed="2" failed="1" ignored="0" total="3" success="false" fileName="06-26_13-09-52-486/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            <execution startTime="1624694106914" stopTime="1624694124264" passed="9" failed="2" ignored="0" total="11" success="false" fileName="06-26_13-24-49-952/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            <execution startTime="1624694199165" stopTime="1624694262871" passed="9" failed="1" ignored="0" total="10" success="false" fileName="06-26_13-26-24-999/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+        </environment>
+    </testCase>
     <testCase name="chrome_TS_PcCreateAccount[DS_PcCreateAccount]">
         <environment name="Apple Inc. Chrome 8 (1200 x 831)" make="Apple Inc." browserName="Chrome 8" resolution="1200 x 831">
             <execution startTime="1614820898027" stopTime="1614820901954" passed="2" failed="1" ignored="0" total="3" success="false" fileName="03-04_06-51-06-442/chrome_TS_PcCreateAccount[DS_PcCreateAccount]/Chrome/chrome_TS_PcCreateAccount[DS_PcCreateAccount].html"/>
@@ -30,9 +42,21 @@
         </environment>
         <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
             <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_12-20-39-846/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-19-22-812/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-25-09-075/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-27-25-701/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-28-33-692/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-31-41-620/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-33-12-739/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-33-59-919/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
         </environment>
         <environment name="Mozilla Firefox / Linux firefox" make="Mozilla" model="Firefox" os="Linux" browserName="firefox">
             <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_16-58-35-660/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Firefox/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-12-45-600/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Firefox/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+        </environment>
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+            <execution startTime="1624687660827" stopTime="1624687660829" passed="1" failed="0" ignored="0" total="1" success="false" fileName="06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
         </environment>
     </testCase>
     <testCase name="Internet Explorer_TS_PcCreateAccount[DS_PcCreateAccount]">
@@ -48,6 +72,9 @@
         <environment name="Mozilla Firefox / Mac firefox" make="Mozilla" model="Firefox" os="Mac" browserName="firefox">
             <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_17-00-13-695/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Firefox/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
             <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_17-07-26-746/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Firefox/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+        </environment>
+        <environment name="Mozilla Firefox / Linux firefox" make="Mozilla" model="Firefox" os="Linux" browserName="firefox">
+            <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-12-45-600/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Firefox/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
         </environment>
     </testCase>
     <suite startTime="1614779544756" endTime="1614779580446" fileName="03-03_19-22-24-756/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
@@ -201,6 +228,155 @@
         <testCase name="firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
             <environment name="Mozilla Firefox / Mac firefox" make="Mozilla" model="Firefox" os="Mac" browserName="firefox">
                 <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="03-15_17-07-26-746/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Firefox/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624686165600" endTime="1624686226269" fileName="06-26_11-12-45-600/index.html" pass="0" fail="2" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Mozilla Firefox / Linux firefox" pass="0" fail="2"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Mozilla Firefox / Linux firefox" make="Mozilla" model="Firefox" os="Linux" browserName="firefox">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-12-45-600/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Firefox/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+        <testCase name="firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Mozilla Firefox / Linux firefox" make="Mozilla" model="Firefox" os="Linux" browserName="firefox">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-12-45-600/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Firefox/firefox_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624686562812" endTime="1624686593516" fileName="06-26_11-19-22-812/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Linux chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-19-22-812/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624686815829" endTime="1624686850565" fileName="06-26_11-23-35-829/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Linux chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-23-35-829/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624686909075" endTime="1624686938827" fileName="06-26_11-25-09-075/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Linux chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-25-09-075/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624687045701" endTime="1624687076629" fileName="06-26_11-27-25-701/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Linux chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-27-25-701/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624687113692" endTime="1624687143446" fileName="06-26_11-28-33-692/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Linux chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-28-33-692/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624687301620" endTime="1624687330924" fileName="06-26_11-31-41-620/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Linux chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-31-41-620/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624687392739" endTime="1624687424901" fileName="06-26_11-33-12-739/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Linux chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-33-12-739/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624687439919" endTime="1624687471530" fileName="06-26_11-33-59-919/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Google Chrome / Linux chrome" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Google Chrome / Linux chrome" make="Google" model="Chrome" os="Linux" browserName="chrome">
+                <execution startTime="0" stopTime="0" passed="0" failed="0" ignored="0" total="0" success="false" fileName="06-26_11-33-59-919/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624687636071" endTime="1624687699800" fileName="06-26_11-37-16-071/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]">
+            <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+                <execution startTime="1624687660827" stopTime="1624687660829" passed="1" failed="0" ignored="0" total="1" success="false" fileName="06-26_11-37-16-071/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP]/Chrome/chrome_TS_MarkAsLostContingentP[DS_MarkAsLost_ContingentP].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624691272442" endTime="1624691288964" fileName="06-26_12-37-52-442/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_InstaLogin[DS_InstaLogin]">
+            <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+                <execution startTime="1624691286850" stopTime="1624691287685" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_12-37-52-442/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624692435193" endTime="1624692449427" fileName="06-26_12-57-15-193/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_InstaLogin[DS_InstaLogin]">
+            <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+                <execution startTime="1624692447272" stopTime="1624692448144" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_12-57-15-193/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624692541896" endTime="1624692554854" fileName="06-26_12-59-01-896/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_InstaLogin[DS_InstaLogin]">
+            <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+                <execution startTime="1624692552964" stopTime="1624692553772" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_12-59-01-896/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624692964751" endTime="1624692979708" fileName="06-26_13-06-04-751/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_InstaLogin[DS_InstaLogin]">
+            <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+                <execution startTime="1624692977506" stopTime="1624692978471" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_13-06-04-751/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624693079288" endTime="1624693096879" fileName="06-26_13-07-59-288/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_InstaLogin[DS_InstaLogin]">
+            <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+                <execution startTime="1624693094888" stopTime="1624693095773" passed="2" failed="2" ignored="0" total="4" success="false" fileName="06-26_13-07-59-288/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624693192486" endTime="1624693210361" fileName="06-26_13-09-52-486/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_InstaLogin[DS_InstaLogin]">
+            <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+                <execution startTime="1624693208219" stopTime="1624693209238" passed="2" failed="1" ignored="0" total="3" success="false" fileName="06-26_13-09-52-486/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624694089952" endTime="1624694121586" fileName="06-26_13-24-49-952/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="1" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_InstaLogin[DS_InstaLogin]">
+            <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+                <execution startTime="1624694106914" stopTime="1624694124264" passed="9" failed="2" ignored="0" total="11" success="false" fileName="06-26_13-24-49-952/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
+            </environment>
+        </testCase>
+    </suite>
+    <suite startTime="1624694184999" endTime="1624694264285" fileName="06-26_13-26-24-999/index.html" pass="0" fail="1" env="1" os="1" scriptFailure="0" applicationFailure="0" cloudFailure="0" configFailure="0">
+        <environment name="Apple Inc. Chrome 9 (1200 x 831)" pass="0" fail="1"/>
+        <testCase name="chrome_TS_InstaLogin[DS_InstaLogin]">
+            <environment name="Apple Inc. Chrome 9 (1200 x 831)" make="Apple Inc." browserName="Chrome 9" resolution="1200 x 831">
+                <execution startTime="1624694199165" stopTime="1624694262871" passed="9" failed="1" ignored="0" total="10" success="false" fileName="06-26_13-26-24-999/chrome_TS_InstaLogin[DS_InstaLogin]/Chrome/chrome_TS_InstaLogin[DS_InstaLogin].html"/>
             </environment>
         </testCase>
     </suite>
