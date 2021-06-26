@@ -56,7 +56,12 @@ public class LoginInstaImpl extends CustomAbstractPage implements LoginInsta
 	    Thread.sleep(2000);
 	    func._click(getElement(btn_NotNow));
 	    func._waitForPageToLoad(getWebDriver(),150L);
-	    func._click(getElement(btn_NotNow));
+	    
+	    if(func._isVisible(getElement(btn_NotNow)))
+	    {
+	    	func._click(getElement(btn_NotNow));
+		}
+	    
 	    func._takeBrowserScreenShot(getWebDriver(), "PRINT", getWebDriver().getCurrentUrl(), "");   
 	}
 
