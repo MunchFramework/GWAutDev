@@ -40,7 +40,7 @@ public class TestDriver_ApplicationName extends CustomAbstractTest {
 			Thread.sleep(500);
 			classInvoker.LogoutInsta(tcID, DeviceName);			
 			softAssert.assertAll();
-			System.out.println("Github webhook test");
+			System.out.println("Github webhook test with ngrok");
 
 		} catch (Exception ex) {
 			
