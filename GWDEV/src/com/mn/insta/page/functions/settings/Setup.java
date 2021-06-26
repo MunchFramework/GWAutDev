@@ -40,14 +40,14 @@ public class Setup  extends AbstractSeleniumTest{
 
 		try {
 			
-			String qTestUpdateTestSet = DeviceManager.instance().getConfigurationProperties().getProperty("qtest.updatetestset");
-			String qTestUpdateEnv = DeviceManager.instance().getConfigurationProperties().getProperty("qtest.updateenv");
-			if (qTestUpdateTestSet.equalsIgnoreCase("yes")) {
-			  QTestIntegration.instance().setUpTestSet("Yes");
-			}
-			if (qTestUpdateEnv.equalsIgnoreCase("yes")) {
-				  QTestIntegration.instance().setUpEnv();;
-			}
+//			String qTestUpdateTestSet = DeviceManager.instance().getConfigurationProperties().getProperty("qtest.updatetestset");
+//			String qTestUpdateEnv = DeviceManager.instance().getConfigurationProperties().getProperty("qtest.updateenv");
+//			if (qTestUpdateTestSet.equalsIgnoreCase("yes")) {
+//			  QTestIntegration.instance().setUpTestSet("Yes");
+//			}
+//			if (qTestUpdateEnv.equalsIgnoreCase("yes")) {
+//				  QTestIntegration.instance().setUpEnv();;
+//			}
 			TestMatrixGenarator.instance().genarateTestMatrixList();
 			
 		} catch (Exception e) {

@@ -23,7 +23,33 @@ public class TestDriver_ApplicationName extends CustomAbstractTest {
 	// Adding
 
 	@Test(dataProvider = "DeviceManager")
-	public void TS_InstaLogin(TestName testName, Device device) throws Exception {
+	public void TS_InstaLogin(TestName testName, Device device) throws Exception 
+	{
+		String tcID = "";
+		try {
+
+			SoftAssert softAssert = new SoftAssert();
+			tcID = getTestName(testName);
+			String DeviceName = getDeviceName(testName);
+			String gvTestKey = testName.toString().split(device.getBrowserName() + "_")[1].split("\\[")[0];
+			GenericFunctions.instance()._addToGlobalVariableList(gvTestKey, testName.toString());
+			
+			PageImplInvoker classInvoker = new PageImplInvoker();	
+			classInvoker.LoginToInsta(tcID, DeviceName);
+			Setup.LoadData();
+			Thread.sleep(500);
+			classInvoker.LogoutInsta(tcID, DeviceName);			
+			softAssert.assertAll();
+
+		} catch (Exception ex) {
+			
+			ex.printStackTrace();
+			throw ex;
+		}
+	}
+	@Test(dataProvider = "DeviceManager")
+	public void TS_InstaLogin1(TestName testName, Device device) throws Exception 
+	{
 		String tcID = "";
 		try {
 
