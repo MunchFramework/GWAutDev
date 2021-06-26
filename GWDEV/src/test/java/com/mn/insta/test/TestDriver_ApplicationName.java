@@ -27,7 +27,7 @@ public class TestDriver_ApplicationName extends CustomAbstractTest {
 	{
 		String tcID = "";
 		try {
-
+			System.out.println("Github webhook test with ngrok");
 			SoftAssert softAssert = new SoftAssert();
 			tcID = getTestName(testName);
 			String DeviceName = getDeviceName(testName);
