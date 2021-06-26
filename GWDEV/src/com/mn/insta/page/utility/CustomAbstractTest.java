@@ -215,7 +215,7 @@ public class CustomAbstractTest  extends AbstractSeleniumTest {
  		String reportPDF = DeviceManager.instance().getConfigurationProperties().getProperty("report.pdf");
  		String qTestUpdateTestResults = DeviceManager.instance().getConfigurationProperties().getProperty("qtest.updateresults");
  		try {
- 			CustomPDFReport.instance().createReport(strTesCase, testResult);
+ 		//	CustomPDFReport.instance().createReport(strTesCase, testResult);
  			/*if (reportPDF.equalsIgnoreCase("yes")) {
  			//CustomPDFReport.instance().createReport(strTesCase, testResult);
  			CustomPDFReport.instance().generatePDFReport(strTesCase,strBrowser,testResult);

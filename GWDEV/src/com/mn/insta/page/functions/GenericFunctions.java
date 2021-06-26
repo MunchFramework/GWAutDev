@@ -40,7 +40,7 @@ import java.util.concurrent.TimeUnit;
 
 import javax.imageio.ImageIO;
 
-import org.apache.commons.lang.StringUtils;
+
 import org.apache.poi.util.Units;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
@@ -673,15 +673,15 @@ public class GenericFunctions extends AbstractSeleniumTest {
 	 * 
 	 * @return
 	 ********************************************************************/
-	public boolean _compareSubStringCaseSensitive(String strChar, String strSearchChar) {
-		Boolean blnCondition = false;
-
-		if (StringUtils.contains(strChar, strSearchChar)) {
-			blnCondition = true;
-		}
-
-		return blnCondition;
-	}
+//	public boolean _compareSubStringCaseSensitive(String strChar, String strSearchChar) {
+//		Boolean blnCondition = false;
+//
+//		if (StringUtils.contains(strChar, strSearchChar)) {
+//			blnCondition = true;
+//		}
+//
+//		return blnCondition;
+//	}
 
 	/*******************************************************************
 	 * Name : _compareSubStringIgnorecase Description : Used to compare sub string
@@ -690,15 +690,15 @@ public class GenericFunctions extends AbstractSeleniumTest {
 	 * 
 	 * @return
 	 ********************************************************************/
-	public boolean _compareSubStringIgnorecase(String strChar, String strSearchChar) {
-		boolean blnCondition = false;
-
-		if (StringUtils.containsIgnoreCase(strChar, strSearchChar)) {
-			blnCondition = true;
-		}
-
-		return blnCondition;
-	}
+//	public boolean _compareSubStringIgnorecase(String strChar, String strSearchChar) {
+//		boolean blnCondition = false;
+//
+//		if (StringUtils.containsIgnoreCase(strChar, strSearchChar)) {
+//			blnCondition = true;
+//		}
+//
+//		return blnCondition;
+//	}
 
 	/*******************************************************************
 	 * Name : _compareStringCaseSensitive Description : Used to compare strings with

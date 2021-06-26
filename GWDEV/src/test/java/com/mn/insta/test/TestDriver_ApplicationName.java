@@ -34,10 +34,10 @@ public class TestDriver_ApplicationName extends CustomAbstractTest {
 			GenericFunctions.instance()._addToGlobalVariableList(gvTestKey, testName.toString());
 			
 			PageImplInvoker classInvoker = new PageImplInvoker();	
-			//classInvoker.LoginToInsta(tcID, DeviceName);
+			classInvoker.LoginToInsta(tcID, DeviceName);
 			Setup.LoadData();
 			Thread.sleep(500);
-			//classInvoker.LogoutInsta(tcID, DeviceName);			
+			classInvoker.LogoutInsta(tcID, DeviceName);			
 			softAssert.assertAll();
 
 		} catch (Exception ex) {
