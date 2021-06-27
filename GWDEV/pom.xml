@@ -11,7 +11,7 @@
     <repository>
       <id>xframium</id>
       <name>xFramium</name>
-      <url>http://www.xframium.org/repository</url>
+      <url>https://www.xframium.org/repository</url>
       <snapshots>
         <enabled>true</enabled>
         <updatePolicy>always</updatePolicy>
